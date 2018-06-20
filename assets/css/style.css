@@ -1,0 +1,21 @@
+body {
+    float: left;
+    background-color: #dddddd;
+}
+
+.makeTeal {
+    background-color: #4aaaa5;
+}
+
+h1 {
+    float: left;
+    background-color: #ffffff;
+}
+
+header {
+    width: max-content;
+}
+a {
+    float: left;
+    padding: 10px;
+}
